@@ -1,0 +1,13 @@
+.propshead{
+    font-weight: bold;
+    color: darkred;
+
+}
+.propsbutton{
+    
+    background-color: black;
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
